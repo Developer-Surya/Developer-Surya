@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Developer-Surya
-- 👀 I’m interested in Android Development & UI Design
-- 🌱 I’m currently learning Java And Kotlin
-- 💞️ Not Available
+- 👀 I’m interested in Java Development & UI Design
+- 🌱 I’m currently learning Web Development
+- 💞️ 🥲
 - 📫 How to reach me https://www.linkedin.com/in/developer-surya/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+- ⚡ Fun fact: No Fun Only Work
 
 <!---
 Developer-Surya/Developer-Surya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
