@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Developer-Surya
-- 👀 I’m interested in Java Development & UI Design
+- 👀 I’m interested in C++ Development & UI Design
 - 🌱 I’m currently learning Web Development
 - 💞️ 🥲
 - 📫 How to reach me https://www.linkedin.com/in/developer-surya/
