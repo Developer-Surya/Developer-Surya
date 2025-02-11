@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Developer-Surya
+- 👋 Hi, I’m Surya
 - 👀 I’m interested in C++ Development & UI Design
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning DSA
 - 💞️ 🥲
 - 📫 How to reach me https://www.linkedin.com/in/developer-surya/
 - 😄 Pronouns: He/Him
